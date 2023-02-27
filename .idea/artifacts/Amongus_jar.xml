@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Amongus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Amongus_jar</output-path>
+    <root id="archive" name="Amongus.jar">
+      <element id="module-output" name="Amongus" />
+    </root>
+  </artifact>
+</component>
