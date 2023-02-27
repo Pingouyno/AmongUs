@@ -1,0 +1,17 @@
+name: AmongUs
+version: 1.0
+author: pepelucifer
+main: AmongUs
+api-version: 1.16
+commands:
+
+  quitter:
+    description: Quitter un salon d'Among Us.
+    usage: /<command>
+    aliases: quit
+
+  amongus:
+    description: Jouer à Among Us.
+    usage: /<command>
+    aliases: a
+
